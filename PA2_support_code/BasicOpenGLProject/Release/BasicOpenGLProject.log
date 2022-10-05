@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\main.cpp(1,10): fatal  error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  shader.cpp
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\shader.h(3,10): fatal  error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  shaderprogram.cpp
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\shaderprogram.h(3,10): fatal  error C1083: Cannot open include file: 'GL/glew.h': No such file or directory

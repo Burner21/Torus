@@ -1,0 +1,23 @@
+﻿  torus1.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\glfw-3.3.8.bin.WIN64\glfw-3.3.8.bin.WIN64\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(83,62): error C2664: 'void setCoords(double,double,int,int,int,int,GLdouble *,GLdouble *)': cannot convert argument 7 from 'GLfloat *' to 'GLdouble *'
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(83,48): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(56,6): message : see declaration of 'setCoords'
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(84,66): error C2664: 'void setCoords(double,double,int,int,int,int,GLdouble *,GLdouble *)': cannot convert argument 7 from 'GLfloat *' to 'GLdouble *'
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(84,52): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(56,6): message : see declaration of 'setCoords'
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(85,66): error C2664: 'void setCoords(double,double,int,int,int,int,GLdouble *,GLdouble *)': cannot convert argument 7 from 'GLfloat *' to 'GLdouble *'
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(85,52): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(56,6): message : see declaration of 'setCoords'
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(87,66): error C2664: 'void setCoords(double,double,int,int,int,int,GLdouble *,GLdouble *)': cannot convert argument 7 from 'GLfloat *' to 'GLdouble *'
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(87,52): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(56,6): message : see declaration of 'setCoords'
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(88,67): error C2664: 'void setCoords(double,double,int,int,int,int,GLdouble *,GLdouble *)': cannot convert argument 7 from 'GLfloat *' to 'GLdouble *'
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(88,52): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(56,6): message : see declaration of 'setCoords'
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(89,4): error C2664: 'void setCoords(double,double,int,int,int,int,GLdouble *,GLdouble *)': cannot convert argument 7 from 'GLfloat *' to 'GLdouble *'
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(89,56): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(56,6): message : see declaration of 'setCoords'
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(117,21): error C3861: 'LoadShaders': identifier not found
+C:\Users\josh8\OneDrive\Desktop\CSE170\PA2-CSE170\PA2_support_code\BasicOpenGLProject\torus1.cpp(136,19): error C3861: 'loadBMP_custom': identifier not found
